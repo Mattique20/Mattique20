@@ -16,7 +16,7 @@
 
 <br />
 
-Hi, my name is Muhammed Attique, I am a student of BSCS from FAST National University of Computer and Emerging Sciences, Islamabad Campus. I am an AI enthusiast.  
+Hi, my name is Mohammed Attique, I am a student of BSCS from FAST National University of Computer and Emerging Sciences, Islamabad Campus. I am an AI enthusiast.  
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
