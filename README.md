@@ -26,8 +26,8 @@ Hi, my name is Mohammed Attique, I am a student of BSCS from FAST National Unive
 - 🌱 I’m currently learning DevOps.
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything , Would love to answer them.✌
-- 📫 How to reach me: Any of the Social-Media Platform 
-- ⚡ Check out my recent [Blogs](https://medium.com/@mattique02)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/attique20) | [Email](mailto:mattique02@gmail.com)  
+- ⚡ Check out my [Blogs](https://medium.com/@mattique02) 
 
 
 
